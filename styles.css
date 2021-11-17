@@ -876,7 +876,7 @@ header {
     padding: 0 20px;
     top: 0;
     left: 0;
-    background: rgba(255, 255, 255, 0.4);
+    background: rgba(255, 255, 255, 0.15);
     width: 100%;
     box-sizing: border-box;
     box-shadow: 0 10px 15px rgba(0, 0, 0, 0.445),
@@ -889,7 +889,7 @@ header {
     position: absolute;
     width: 100%;
     height: calc(100vh - 50px);
-    background: rgba(255, 255, 255, 0.068);
+    background: rgba(255, 255, 255, 0.8);
     z-index: 500;
     backdrop-filter: blur(15px);
     top: 60px;
