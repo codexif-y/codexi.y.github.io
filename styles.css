@@ -578,7 +578,7 @@ header {
     position: absolute;
     width: 100%;
     height: calc(100vh - 50px);
-    background: rgba(255, 255, 255, 0.9);
+    background: #fff;
     z-index: 500;
     backdrop-filter: blur(15px);
     top: 60px;
